@@ -32,7 +32,8 @@ git pull origin master --> to pull the latest copy from github.com into local gi
 git remote set-url origin url chris
 
 
-
+change
+change 2 by amlan
 
 
 

@@ -29,7 +29,7 @@ git push origin master --> to push the data into github.com from local git
 git pull origin master --> to pull the latest copy from github.com into local git
 
 
-git remote set-url origin
+git remote set-url origin url chris
 
 
 
